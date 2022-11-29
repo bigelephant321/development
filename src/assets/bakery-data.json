@@ -2,7 +2,7 @@
     {
       "name": "Chocolate Chip Cookies",
       "description": "Four classic chocolate chip cookies",
-      "filters": "Customer Favorite & Contains Nuts",
+      "filters": "Customer Favorite & Nut Free",
       "price": 7.99,
       "image": "images/anika.png",
       "value": "nf"
@@ -42,7 +42,7 @@
     {
       "name": "Macarons",
       "description": "A box of three macarons in assorted flavors",
-      "filters": "Contains Nuts",
+      "filters": "Nut Free",
       "price": 4.99,
       "image": "images/jeff.png",
       "value": "n"
@@ -58,7 +58,7 @@
     {
       "name": "Croissant",
       "description": "A classic butter croissant with a flaky crust",
-      "filters": "Contains Nuts",
+      "filters": "Nut Free",
       "price": 2.99,
       "image": "images/jessie.png",
       "value": "n"
@@ -74,7 +74,7 @@
     {
       "name": "Tiramisu",
       "description": "A classic tiramisu",
-      "filters": "Customer Favorite & Contains Nuts",
+      "filters": "Customer Favorite & Nut Free",
       "price": 3.99,
       "image": "images/lauren.png",
       "value": "nf"
@@ -105,8 +105,8 @@
     },
     {
       "name": "Cheesecake",
-      "description": "A slice of classic New York cheesecake topped with strawberry with nuts",
-      "filters": "Contains Nuts",
+      "description": "A slice of classic New York cheesecake topped with strawberry",
+      "filters": "Nut Free",
       "price": 3.99,
       "image": "images/sunny.png",
       "value": "n"
